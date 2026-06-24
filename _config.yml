@@ -1,0 +1,3 @@
+# GitHub Pages config — disables Jekyll processing so the HTML file
+# is served exactly as written with no build transformation.
+plugins: []
